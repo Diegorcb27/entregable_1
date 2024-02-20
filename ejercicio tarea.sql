@@ -50,6 +50,8 @@ on post.creator_id = users.id;
 
 --users -- likes -- post
 
+select * from likes;
+
 
 SELECT *
 FROM users
